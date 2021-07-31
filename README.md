@@ -1,3 +1,3 @@
 # Kpkoa Clone 2021 Update
 
-CSS got so much better!
+HTML & CSS GOT are so much fun!
